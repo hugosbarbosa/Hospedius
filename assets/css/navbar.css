@@ -1,0 +1,8 @@
+header {
+    font-weight: 700;
+    
+}
+
+.text-brand {
+  color: var(--bg-azul1);
+}
