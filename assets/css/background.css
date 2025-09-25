@@ -1,0 +1,9 @@
+.background-banner {
+width: 100vw;
+height: 100vh;
+background-image: url('../imagens/banners/unnamed.png');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
